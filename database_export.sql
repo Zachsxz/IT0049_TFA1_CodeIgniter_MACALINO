@@ -1,0 +1,4 @@
+-- IT0049 TFA1
+-- No database is used in this activity.
+-- Customer and User Accounts use static PHP arrays as temporary data sources.
+-- This placeholder is included to document the database-export requirement.
